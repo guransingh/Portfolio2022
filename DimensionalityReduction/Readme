@@ -1,0 +1,3 @@
+This file explores air pollution data set with a number of features (categorical and numerical).
+Then it attempts to apply dimensionality reduction techniques to make the dataset more manageable
+Both PCA and T-SNE approachs are performed
