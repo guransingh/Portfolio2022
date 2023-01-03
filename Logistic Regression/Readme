@@ -1,0 +1,5 @@
+There are 2 workbooks.
+
+The EDA workbook investigates the underlying data of the wine dataset by performing Exploratory Data Analysis
+
+The Logistic Regression workbook build a classifier model on the data to predict whether the wine quality is good or not, based on the underlying features
