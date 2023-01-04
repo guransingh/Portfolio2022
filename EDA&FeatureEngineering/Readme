@@ -3,6 +3,7 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/
 
 The files are:
 data_description.txt - details of the dataset (70+ features)
+train.csv - dataset from Kaggle
 HousePrices_EDA_v1 - Exploratory data analysis on the data
 HousePrices_FeatureEngineering_v1 - Feature engineering after EDA has been performed
 HousePrices_FeatureSelection_v1 - Feature selection example
