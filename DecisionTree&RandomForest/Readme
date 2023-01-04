@@ -1,0 +1,2 @@
+This workbook explores the modelling of employees leaving their employer given a few numerical and categorical features.
+First EDA is performed, then Decision Trees and Random Forests models are built
