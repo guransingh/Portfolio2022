@@ -1,0 +1,8 @@
+This folder contains analysis performed on the Kaggle competition data set for House Prices - Advanced Regression Techniques
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
+
+The files are:
+data_description.txt - details of the dataset (70+ features)
+HousePrices_EDA_v1 - Exploratory data analysis on the data
+HousePrices_FeatureEngineering_v1 - Feature engineering after EDA has been performed
+HousePrices_FeatureSelection_v1 - Feature selection example
